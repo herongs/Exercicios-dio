@@ -1,3 +1,5 @@
+package atividades.src;
+
 import java.util.Scanner;
 
 public class Ex04_ParEImpar {
